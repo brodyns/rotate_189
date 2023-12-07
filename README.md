@@ -7,7 +7,7 @@ https://leetcode.cn/problems/rotate-array/description/
  
 
 示例 1:
-输入: nums = [1,2,3,4,5,6,7], k = 3
+输入：nums = [1,2,3,4,5,6,7], k = 3
 输出: [5,6,7,1,2,3,4]
 解释:
 向右轮转 1 步: [7,1,2,3,4,5,6]
